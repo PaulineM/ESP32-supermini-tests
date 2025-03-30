@@ -4,7 +4,7 @@
 #include <Adafruit_Sensor.h>
 #include <Wire.h>
 
-// ESP32-C3 - GPIOs 2, 8 and 9 are strapping pins. To avoid.
+// ESP32-C3 - GPIOs 2, 8 and 9 are strapping pins.
 
 #define I2C_SDA 2  // Your chosen I2C SDA pin
 #define I2C_SCL 3  // Your chosen I2C SCL pin
